@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Our Company</title>
+  >Our Company
 </head>
 
 <body>
